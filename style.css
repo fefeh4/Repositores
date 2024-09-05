@@ -1,0 +1,26 @@
+body{
+    background-color:white;
+    color: black;
+    text-align: center;   
+}
+
+h1, h2{
+    color:rgb(0, 195, 255);
+}
+p{
+    color:red;
+    padding: 10px;
+    border: solid 10px pink;
+    margin: 10px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 30px;
+}
+a{
+    color: blueviolet;
+    font-size: 20px;
+}
+div{
+    color:blue;
+}
